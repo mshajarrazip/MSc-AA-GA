@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d25cde2e-4661-45c9-824a-a2291500026b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Code/src/GAcomp.py" afterPath="$PROJECT_DIR$/Code/src/GAcomp.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MUTP_GA_AAGA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/src/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding>
+                <element signature="e#385#417#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GAsolver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/src/GAsolver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GAcomp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/src/GAcomp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AAcomp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/src/AAcomp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/src/data_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Initialize</find>
+      <find>initialize</find>
+      <find>autoN</find>
+      <find>sol_lo</find>
+      <find>sol_log</find>
+      <find>populateby</find>
+      <find>ORLib</find>
+      <find>&quot;_2017&quot;</find>
+      <find>ORL</find>
+      <find>_Rand</find>
+      <find>_15</find>
+      <find>Random</find>
+      <find>MIPdata</find>
+      <find>FDC</find>
+      <find>optval</find>
+      <find>solve</find>
+      <find>member</find>
+      <find>chromosome</find>
+      <find>mode</find>
+      <find>feasible</find>
+      <find>MIP</find>
+      <find>writeas</find>
+      <find>loadpop</find>
+      <find>pop</find>
+      <find>poptag</find>
+      <find>popdatalist</find>
+      <find>cplex</find>
+      <find>GA</find>
+      <find>AA_gener</find>
+      <find>AA_genera</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Code/src/main_bc" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_AAR2_1000_20170908193510_100_20170918173119/IterationStatus/sol_log_scpa1_f0_AAR2_1000_20170908194659_10.0_200.0_2.020170918173119.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_AAR2_1000_20170908193510_100_20170918173119/mainlog_pa_GEN_RAW_AAR2_1000_20170908193510_s100000_20170918173119.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_AAR2_1000_20170908193510_100_20170918173119/mainlog_pa_OBJ_RAW_AAR2_1000_20170908193510_s100000_20170918173119.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170918223558/mainlog_p4_GEN_RAW_POPR_s100000_20170918223558.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_AAR2_1000_20170908193510_100_20170919093236/mainlog_pc_GEN_RAW_AAR2_1000_20170908193510_s100000_20170919093236.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_AAR2_1000_20170908193510_100_20170919093236/mainlog_pc_OBJ_RAW_AAR2_1000_20170908193510_s100000_20170919093236.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_AAR2_1000_20170908193510_100_20170919093236/mainlog_pc_SEED_RAW_AAR2_1000_20170908193510_s100000_20170919093236.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170920095351/mainlog_pa_GEN_RAW_POPR_s100000_20170920095351.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170921140538/mainlog_pc_OBJ_RAW_POPR_s100000_20170921140538.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170921140538/mainlog_pc_SEED_RAW_POPR_s100000_20170921140538.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170921194442/mainlog_p5_GEN_RAW_POPR_s100000_20170921194442.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170921140538/mainlog_pc_GEN_RAW_POPR_s100000_20170921140538.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170922112433/mainlog_p5_GEN_RAW_POPR_s100000_20170922112433.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170922112433/mainlog_p5_OBJ_RAW_POPR_s100000_20170922112433.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170922112433/mainlog_p5_SEED_RAW_POPR_s100000_20170922112433.csv" />
+        <option value="$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_RAW_POPR_100_20170922175438/mainlog_p4_GEN_RAW_POPR_s100000_20170922175438.csv" />
+        <option value="$PROJECT_DIR$/Code/ORLib2/mut_rate.csv" />
+        <option value="$PROJECT_DIR$/Code/src/data_manager.py" />
+        <option value="$PROJECT_DIR$/Code/src/main.py" />
+        <option value="$PROJECT_DIR$/Code/src/GAsolver.py" />
+        <option value="$PROJECT_DIR$/Code/src/AAcomp.py" />
+        <option value="$PROJECT_DIR$/Code/src/GAcomp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="48" />
+    <option name="width" value="1855" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MUTP_GA_AAGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MUTP_GA_AAGA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MUTP_GA_AAGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MUTP_GA_AAGA" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MUTP_GA_AAGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MUTP_GA_AAGA" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="ORLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MUTP_GA_AAGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MUTP_GA_AAGA" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="ORLibX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MUTP_GA_AAGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MUTP_GA_AAGA" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MUTP_GA_AAGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MUTP_GA_AAGA" type="462c0819:PsiDirectoryNode" />
+              <item name="Input" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MUTP_Pop_SCPPopGenerator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Input/AADLO_RAW_1000" />
+      <recent name="$PROJECT_DIR$/Input" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Code\src" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Code\ORLib" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Code\MIP_JSON" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Output\CHECKED2" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Output" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Code\ORLib2\SCPNRG" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Code\ORLib2\SCPNRF" />
+      <recent name="C:\Users\Hajar\Documents\UTP2\MUTP\MUTP_Deliverables\Python\MUTP_GA_AAGA\Code\ORLib2\SCPNRE" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MUTP_GA_AAGA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25cde2e-4661-45c9-824a-a2291500026b" name="Default" comment="" />
+      <created>1505357786524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505357786524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25444743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27198365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Input/RAW_POP_SCPNRetog/RAW_scpnrf4_Random1000_1506559178.29.txt" />
+    <entry file="file://$PROJECT_DIR$/Input/RAW_POP_SCPNRetog/RAW_scpnrf5_Random1000_1506559255.68.txt" />
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRE/scpnre1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRE/scpnre2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRE/scpnre3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRE/scpnre4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRE/scpnre5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRF/scpnrf1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRF/scpnrf2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRF/scpnrf3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRF/scpnrf4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRF/scpnrf5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRG/scpnrg1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRG/scpnrg2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRG/scpnrg3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRG/scpnrg4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRG/scpnrg5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLibX/mut_rate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/Random_RAW_POP_SCPNRetog/RAW_scpnre1_Random1000_1506558699.54.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/MIP_JSON/scpnrf2_MIP_f0_v15.0_20170925093855_JSON.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928104051/mainlog_SCPNRE_GEN_Random_RAW_POP_SCPNRetog_s100000_20170928104051.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928105803/mainlog_SCPNRF_GEN_Random_RAW_POP_SCPNRetog_s100000_20170928105803.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928115710/mainlog_SCPNRG_GEN_Random_RAW_POP_SCPNRetog_s100000_20170928115710.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/mainlog_SCPNRE_GEN_Random_RAW_POP_SCPNRetog_s100000_20170928183147.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre3_scpnre3_Random1000_10.0_350.0_1.11506598933.8.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre4_scpnre4_Random1000_10.0_350.0_1.11506604840.8.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594733.37.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594762.53.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594791.25.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594819.19.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594847.23.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594875.01.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594903.48.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/CHECKED2/LOG_GA_RUN_LoadPopulation_Random_RAW_POP_SCPNRetog_100_20170928183147/IterationStatus/sol_log_scpnre1_scpnre1_Random1000_10.0_350.0_1.11506594931.92.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_LoadPopulation_AAR2-EFG_100_20171010085904/mainlog_SCPNRG_GEN_AAR2-EFG_s100000_20171010085904.csv" />
+    <entry file="file://$PROJECT_DIR$/Input/AAR2-EFG/scpnre1_f0_AAR2_1000_20170925091959.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/AAR2-EFG/scpnrg1_f0_AAR2_1000_20170925112840.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/SCPNRH/scpnrh1.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_Random__100_20171102162617/mainlog_SCPNRH_GEN_Random_s100000_20171102162617.csv" />
+    <entry file="file://$PROJECT_DIR$/Code/src/FLA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/MIP_JSON/scp41_MIP_f0_v429.0_20170225133001_JSON.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ORLib/mut_rate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_Random__100_20171102214814/mainlog_SCPNRH_GEN_Random_s1_20171102214814.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/LOG_GA_RUN_Random__100_20171102215919/results/scpnrh1/_scpnrh1_f0_v88.0_20171102220112_JSON.txt" />
+    <entry file="file://$PROJECT_DIR$/Code/src/scpnrh1_GA_BFS_1_20171102221030_JSON.txt" />
+    <entry file="file://$PROJECT_DIR$/Input/AADLO_RAW_1000/scp41_Lbeasley_AAD_1000_20180206134108.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/GAsolver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/data_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/AAcomp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/GAcomp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#385#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

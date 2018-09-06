@@ -1,0 +1,71 @@
+
+
+    for pr in probnamelist:
+        print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+        disp_head("Problem: {0}".format(pr))
+        prdatafile = [f for f in probsrclist if (pr + ".txt") in f][0]
+        print("Problem data file: {0}".format(prdatafile))
+        if (INIT_METHOD == "LoadPopulation"):
+            popdatafile = [f for f in popdatalist if (pr + "_") in f][0]
+            print("Population data file: {0}".format(popdatafile))
+        else:
+            popdatafile = ""
+        MIPdatafile = [join(MIPsrc, f) for f in listdir(MIPsrc) if ((isfile(join(MIPsrc, f)) and ((pr + "_") in f)))][0]
+        print("MIP JSON file: {0}".format(MIPdatafile))
+        # get exact solution value
+        with open(MIPdatafile) as json_data:
+            mipdata = jload(json_data)
+        optval = mipdata['OBJ_VAL']
+        print("\t OPT val: {0}".format(optval))
+        print("Output logs:")
+        print("\t OBJ: {0}".format(outOBJ))
+        print("\t GEN: {0}".format(outGEN))
+        print("\t SEED: {0}".format(outSEED))
+
+        with open(outOBJ, "a+") as f:
+            f.write("{0},".format(pr))
+        with open(outGEN, "a+") as f:
+            f.write("{0},".format(pr))
+        with open(outSEED, "a+") as f:
+            f.write("{0},".format(pr))
+
+        listOBJ = list()
+        listGEN = list()
+
+        for i in range(trial):
+            print(">>>Trial {0}\n", i)
+
+            seedval = time()
+            randoseed(seedval)
+
+            Ga = GA()
+            Ga.setProblem(prdatafile)
+            Ga.setParameter(N=popsize, gen=genmax, gen_max = gen_lim, opt_val = optval,
+                            mut_param=MUT_PARAM, init_method=INIT_METHOD,
+                            popsource=popdatafile, AutoNPop= AutoNpop,
+                            MIPdata = mipdata)
+            # if init_method = AAR, then AAparam = ("AAR", 0.5, 1)
+            Ga.solve()
+
+            listOBJ.append(float(Ga.population.BFS.fitness))
+            listGEN.append(float(Ga.population.BFS.ID[Ga.population.BFS.ID.index("g")+1:Ga.population.BFS.ID.index("ge")]))
+
+            with open(outOBJ, "a+") as f:
+                f.write("{0},".format(Ga.population.BFS.fitness))
+            with open(outGEN, "a+") as f:
+                f.write("{0},".format(Ga.population.BFS.ID[Ga.population.BFS.ID.index("g")+1:Ga.population.BFS.ID.index("ge")]))
+            with open(outSEED, "a+") as f:
+                f.write("{0},".format(seedval))
+
+            del(Ga)
+
+        with open(outOBJ, "a+") as f:
+            bestOBJ = min(listOBJ)
+            avgOBJ = sum(listOBJ)/float(len(listOBJ))
+            f.write("{0},{1}\n".format(bestOBJ, avgOBJ))
+        with open(outGEN, "a+") as f:
+            bestGEN = min(listGEN)
+            avgGEN = sum(listGEN)/float(len(listGEN))
+            f.write("{0},{1}\n".format(bestGEN, avgGEN))
+        with open(outSEED, "a+") as f:
+            f.write("\n")

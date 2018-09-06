@@ -1,0 +1,1 @@
+{"OBJ_VAL": 17, "status": "N/A", "Name": "scpnrf3", "time": "N/A", "X": [0, 1, 2, 4, 6, 7, 10, 12, 15, 22, 24, 25, 26, 30, 32, 34, 38], "Pi": "N/A", "Dj": "N/A", "slack": "N/A", "density": 0.1997, "feasible": true, "X_len": 17, "mode": "Greedy", "factor": 0, "obj_val": "N/A", "x": "N/A"}
