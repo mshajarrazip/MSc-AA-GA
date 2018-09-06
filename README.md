@@ -1,1 +1,1 @@
-#MSc-AA-GA
+GA for the SCP
